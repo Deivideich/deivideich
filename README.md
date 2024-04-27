@@ -1,5 +1,6 @@
 ### Hi, my name is David Vázquez
 
+## I am currently studying engineering in robotics and digital systems at Tecnológico de Monterrey
 <!--
 **Deivideich/deivideich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
