@@ -1,4 +1,4 @@
-### Hi, my name is Deivideich
+### Hi, my name is David Vázquez
 
 ## I am currently studying engineering in robotics and digital systems at Tecnológico de Monterrey
 <!--
